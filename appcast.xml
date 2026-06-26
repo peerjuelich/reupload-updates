@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReUpload</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 26 Jun 2026 21:24:22 +0700</pubDate>
+            <link>https://github.com/peerjuelich/reupload-updates</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peerjuelich/reupload-updates/releases/download/v1.1.0/ReUpload-1.1.0.zip" length="123743072" type="application/octet-stream" sparkle:edSignature="PbaFbTFE7Og1epwLYDnLdqdbBfMGIu8FDXFAXiqh8EYJk05HkHW3TFfI7LND69DvDkEyFG/jWs7o/fwYTl/kDQ=="/>
+        </item>
+    </channel>
+</rss>
