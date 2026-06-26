@@ -3,13 +3,13 @@
     <channel>
         <title>ReUpload</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Fri, 26 Jun 2026 21:24:22 +0700</pubDate>
+            <title>1.1.1</title>
+            <pubDate>Fri, 26 Jun 2026 23:52:26 +0700</pubDate>
             <link>https://github.com/peerjuelich/reupload-updates</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peerjuelich/reupload-updates/releases/download/v1.1.0/ReUpload-1.1.0.zip" length="123743072" type="application/octet-stream" sparkle:edSignature="PbaFbTFE7Og1epwLYDnLdqdbBfMGIu8FDXFAXiqh8EYJk05HkHW3TFfI7LND69DvDkEyFG/jWs7o/fwYTl/kDQ=="/>
+            <enclosure url="https://github.com/peerjuelich/reupload-updates/releases/download/v1.1.1/ReUpload-1.1.1.zip" length="123773166" type="application/octet-stream" sparkle:edSignature="KqS7wWMf8Oom3hRylNJKRKz32RsIo11kqYeMYqW32dNkLm5Rx3k4wS+LSUYm76h49Cb+5k64NgYYVR2qqrb8Bg=="/>
         </item>
     </channel>
 </rss>
