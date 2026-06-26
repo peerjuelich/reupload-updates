@@ -1,6 +1,6 @@
 {
-  "minimumVersion": "1.0.0",
-  "latestVersion": "1.0.0",
+  "minimumVersion": "1.1.0",
+  "latestVersion": "1.1.0",
   "downloadURL": "https://github.com/peerjuelich/reupload-updates/releases/latest/download/ReUpload.dmg",
-  "releaseNotes": "Initial release."
+  "releaseNotes": "Forced-update demo — this build is below the required minimum."
 }
